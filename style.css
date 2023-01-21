@@ -87,3 +87,16 @@ body {
   top: 50px;
   left: 190px;
 }
+
+.lists {
+  display: flex;
+  gap: 12px;
+  margin-top: 300px;
+  margin-left: 500px;
+}
+
+.list {
+  list-style: none;
+  font-size: 33px;
+  color: #fff;
+}
